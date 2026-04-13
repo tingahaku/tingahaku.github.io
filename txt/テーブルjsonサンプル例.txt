@@ -1,0 +1,90 @@
+テーブルjsonサンプル例
+
+Pokemon.json
+{
+  "no": 445,
+  "name": "ガブリアス",
+
+  "types": ["ドラゴン", "じめん"],
+
+  "abilities": ["すながくれ", "さめはだ"],
+
+  "baseStats": {
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "spa": 80,
+    "spd": 85,
+    "spe": 102
+  },
+
+  "evioliteEligible": false,
+
+  "point": "高い火力と広い技範囲が魅力。素早さを補えばスイーパーもこなせる。",
+
+  "synergy": {
+    "name": "広い技範囲",
+    "modifiers": {
+      "physicalAttacker": 1.2,
+      "specialAttacker": null,
+      "physicalSweeper": null,
+      "specialSweeper": null,
+      "physicalWall": null,
+      "specialWall": null,
+      "setup": null
+    }
+  },
+
+  "moves": [
+    "じしん",
+    "りゅうせいぐん",
+    "じならし",
+    "だいもんじ",
+    "スケイルショット",
+    "つるぎのまい",
+    "ステルスロック"
+  ]
+}
+
+Ability.json
+{
+  "name": "さめはだ",
+
+  "description": "接触した相手のHPを削る",
+
+  "statModifiers": {
+    "hp": null,
+    "atk": null,
+    "def": null,
+    "spa": null,
+    "spd": null,
+    "spe": null
+  },
+
+  "suitabilityModifiers": {
+    "physicalAttacker": 1.1,
+    "specialAttacker": null,
+    "physicalSweeper": null,
+    "specialSweeper": null,
+    "physicalWall": 1.1,
+    "specialWall": 1.1,
+    "setup": 1.1
+  }
+}
+
+Move.json
+{
+  "name": "じしん",
+
+  "type": "じめん",
+
+  "category": "physical",
+
+  "power": 100,
+
+  "accuracy": 100,
+
+  "description": "範囲攻撃。地中の相手にも当たる",
+
+  "setupScore": null
+}

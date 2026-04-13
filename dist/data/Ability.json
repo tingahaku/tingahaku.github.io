@@ -1,0 +1,3722 @@
+﻿[
+    {
+        "name":  "ARシステム",
+        "description":  "持っているメモリに応じたタイプになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "アイスフェイス",
+        "description":  "アイスフェイス時は物理技のダメージを無効化してナイスフェイスになり、ゆき状態になるとアイスフェイスに戻る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "アイスボディ",
+        "description":  "ゆき状態の時、ターン終了時に最大HPの1/16回復。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あくしゅう",
+        "description":  "技でダメージを与えた時、10％の確率でひるませる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あついしぼう",
+        "description":  "ほのお、こおりタイプの技を半減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1,
+                              "spa":  null,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あとだし",
+        "description":  "技の優先度が下がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "アナライズ",
+        "description":  "ターン最後に攻撃技を出すと威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あまのじゃく",
+        "description":  "能力変化が逆転する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あめうけざら",
+        "description":  "あめ状態の時、最大HPの1/16回復。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "あめふらし",
+        "description":  "登場すると5ターンあめ状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ありじごく",
+        "description":  "相手は交代できなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "アロマベール",
+        "description":  "自分と味方はメロメロ、ちょうはつ、連続不可、わざふうじ、かいふくふうじ、アンコール状態にならなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いかく",
+        "description":  "登場すると相手全体の攻撃を1段階下げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いかりのこうら",
+        "description":  "相手の攻撃によってHPが半分になると防御、特防が下がり、攻撃、特攻、素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "いかりのつぼ",
+        "description":  "技を急所に当てられた時、攻撃が最大まで上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  4,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いしあたま",
+        "description":  "自分の技による反動ダメージを受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いたずらごころ",
+        "description":  "変化技の優先度が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いやしのこころ",
+        "description":  "ターン終了時、50％の確率で味方の状態異常が治る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "イリュージョン",
+        "description":  "手持ちの最後のポケモンに化けて登場する。技によってダメージを受けると元に戻る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いろめがね",
+        "description":  "自分の攻撃技がいまひとつの場合、技の威力が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1,
+                              "def":  null,
+                              "spa":  1,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "いわはこび",
+        "description":  "いわタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1,
+                              "def":  null,
+                              "spa":  1,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "うのミサイル",
+        "description":  "なみのりかダイビングを使うと獲物を咥え、技によってダメージを受けると相手の最大HPの1/4のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "うるおいボイス",
+        "description":  "音系の技がみずタイプになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "うるおいボディ",
+        "description":  "あめ状態のとき、ターン終わりに状態異常が回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "エアロック",
+        "description":  "全てのポケモンが天気の影響を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "エレキスキン",
+        "description":  "ノーマルタイプの技がでんきタイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "エレキメイカー",
+        "description":  "登場すると5ターンの間エレキフィールド状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "えんかく",
+        "description":  "使う技がすべて接触技ではなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "オーラブレイク",
+        "description":  "お互いのフェアリーオーラ、ダークオーラの効果が4/3倍から3/4倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おうごんのからだ",
+        "description":  "変化技を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おどりこ",
+        "description":  "味方か相手が踊り系の技を使うと自分もその技を使う。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おみとおし",
+        "description":  "登場したとき、相手の持ち物がわかる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おもかげやどし",
+        "description":  "おめんによって能力が1段階あがる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おもてなし",
+        "description":  "登場したときに味方を最大HPの1/4回復させる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おやこあい",
+        "description":  "0.25倍の威力の追加攻撃を行える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "おわりのだいち",
+        "description":  "戦闘に出ているとおおひでり状態になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "カーリーヘアー",
+        "description":  "接触技を受けると相手の素早さを1段階下げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "かいりきバサミ",
+        "description":  "相手の技や特性で攻撃が下がらない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かがくのちから",
+        "description":  "味方がひんしになると特性を受け継ぐ。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かがくへんかガス",
+        "description":  "場のポケモンの特性が発動しなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かげふみ",
+        "description":  "相手は交代できなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かぜのり",
+        "description":  "風系の技を受けると素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "かそく",
+        "description":  "ターン終わりに素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "かたいツメ",
+        "description":  "接触技の威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かたやぶり",
+        "description":  "技を出すとき相手の特性の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かちき",
+        "description":  "相手に能力を下げられると特攻が2段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "カブトアーマー",
+        "description":  "相手の攻撃が急所に当たらない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かるわざ",
+        "description":  "持っている道具がなくなると素早さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "かわりもの",
+        "description":  "登場したときに相手に変身する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かんそうはだ",
+        "description":  "ほのおタイプの技やひでり状態に弱くなり、みずタイプの技やあめ状態で回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かんつうドリル",
+        "description":  "接触技が相手の守りを1/4貫通する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "かんろなミツ",
+        "description":  "1度だけ登場したときに相手の回避率を1段階下げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "がんじょう",
+        "description":  "1撃必殺が効かず、HPが最大の時にひんしになるダメージを受けてもHPが1残る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "がんじょうあご",
+        "description":  "キバ系の技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ききかいひ",
+        "description":  "残りHPが1/2になると手持ちのポケモンと交代する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きけんよち",
+        "description":  "相手が効果抜群の技や1撃必殺を持っているか分かる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きずなへんげ",
+        "description":  "相手を倒すと攻撃、特攻、素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "きみょうなくすり",
+        "description":  "登場したとき、味方の能力を元に戻す。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きもったま",
+        "description":  "ゴーストタイプにもノーマルタイプやかくとうタイプの技が効くようになる。いかくの効果を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きゅうばん",
+        "description":  "交代させる技や道具が効かない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きょううん",
+        "description":  "攻撃を急所に当てやすい。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きょうえん",
+        "description":  "登場したとき、味方の能力ランクをコピーする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きょうせい",
+        "description":  "味方が道具を失った時、自分の道具を渡す。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きよめのしお",
+        "description":  "状態異常にならず、ゴーストタイプの技を半減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1,
+                              "spa":  null,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きれあじ",
+        "description":  "切る系の技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きんしのちから",
+        "description":  "変化技を出す時に特性の影響を受けず、後攻になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "きんちょうかん",
+        "description":  "相手はきのみを食べられなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぎたい",
+        "description":  "フィールドに合わせてタイプが変わる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぎゃくじょう",
+        "description":  "相手の技で残りHPが1/2になると特攻が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぎょぐん",
+        "description":  "残りHPが3/4を上回っているとむれたすがたになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "くいしんぼう",
+        "description":  "HPが残り1/4の時に食べるきのみを1/2の時点で食べる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "クイックドロウ",
+        "description":  "攻撃技が30％の確率で先制になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "クォークチャージ",
+        "description":  "エレキフィールド状態かブーストエナジで1番高い能力が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "くさのけがわ",
+        "description":  "グラスフィールド状態では防御が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "くだけるよろい",
+        "description":  "物理技を受けると防御が1段階下がり、素早さが2段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "クリアボディ",
+        "description":  "能力を下げる技や特性の効果を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "くろのいななき",
+        "description":  "相手を倒したとき特攻が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "グラスメイカー",
+        "description":  "5ターンの間グラスフィールド状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "げきりゅう",
+        "description":  "HPが1/3の時、みずタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "こおりのりんぷん",
+        "description":  "特殊技で受けるダメージが1/2になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  2,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "こだいかっせい",
+        "description":  "ひでり状態かブーストエナジで1番高い能力が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "こぼれダネ",
+        "description":  "攻撃を受けると5ターンの間グラスフィールド状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "こんがりボディ",
+        "description":  "ほのおタイプの技を無効化して防御が2段階上げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  2,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "こんじょう",
+        "description":  "状態異常の時に攻撃が1.5倍になる。やけどで攻撃が下がらない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ごりむちゅう",
+        "description":  "素早さが1.5倍になるが同じ技しか出せなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "サーフテール",
+        "description":  "エレキフィールド状態では素早さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "サイコメイカー",
+        "description":  "登場するとサイコフィールド状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "さいせいりょく",
+        "description":  "交代すると最大HPの1/3回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "さまようたましい",
+        "description":  "接触技を受けると相手と特性を入れ替える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "さめはだ",
+        "description":  "接触技を受けると相手に最大HPの1/8のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "サンパワー",
+        "description":  "にほんばれ状態で特攻が1.5倍になるが、ターンおわりに最大HPの1/8のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "シェルアーマー",
+        "description":  "相手の攻撃が急所に当たらない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しぜんかいふく",
+        "description":  "交代すると状態異常が回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しめりけ",
+        "description":  "全てのポケモンが自爆技を使えなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しゅうかく",
+        "description":  "ターンおわりに使ったきのみを50％の確率で回収する。にほんばれ状態では100％回収する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しょうりのほし",
+        "description":  "自分と味方の命中率が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しれいとう",
+        "description":  "味方にヘイラッシャがいると合体し、ヘイラッシャの攻撃、防御、特攻、特防、素早さが2段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しろいけむり",
+        "description":  "技や特性によって能力を下げられない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しろのいななき",
+        "description":  "相手を倒すと攻撃が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しんがん",
+        "description":  "ゴーストタイプにもノーマルタイプやかくとうタイプの技が効くようになる。命中率が下がらず、回避率の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "シンクロ",
+        "description":  "相手の技や特性でどく、もうどく、やけど、まひになった時、相手も同じ状態異常にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "しんりょく",
+        "description":  "HPが1/3の時、くさタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じきゅうりょく",
+        "description":  "攻撃技を受けると防御が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じしんかじょう",
+        "description":  "相手を倒すと攻撃が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じゅうなん",
+        "description":  "まひにならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じゅくせい",
+        "description":  "きのみの効果が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じょうききかん",
+        "description":  "みずタイプやほのおタイプの技を受けると素早さが6段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  4
+                          }
+    },
+    {
+        "name":  "じょおうのいげん",
+        "description":  "自分と味方は相手の先制技を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じりょく",
+        "description":  "相手のはがねタイプのポケモンは交代できなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "じんばいったい",
+        "description":  "2つの特性を併せ持つ。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スイートベール",
+        "description":  "味方と自分はねむり、ねむけ状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すいすい",
+        "description":  "あめ状態の場合、素早さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "すいほう",
+        "description":  "やけどにならず、ほのおタイプの技のダメージを半減する。みずタイプの技の威力が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  1,
+                              "spa":  2,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スカイスキン",
+        "description":  "ノーマルタイプの技がひこうタイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スキルリンク",
+        "description":  "連続技が必ず最後まで当たる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スクリューおびれ",
+        "description":  "対象を変更する効果を無視して攻撃できる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すじがねいり",
+        "description":  "対象を変更する効果を無視して攻撃できる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すてみ",
+        "description":  "反動ダメージのある技の威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スナイパー",
+        "description":  "攻撃を急所に当てた時のダメージが2.25倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1,
+                              "def":  null,
+                              "spa":  1,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すなおこし",
+        "description":  "登場するとすなあらし状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すなかき",
+        "description":  "すなあらし状態のとき素早さが2倍になり、すなあらしのダメージを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "すながくれ",
+        "description":  "すなあらし状態のとき相手の命中率が0.8倍になり、すなあらしのダメージを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すなのちから",
+        "description":  "すなあらし状態のときじめん、いわ、はがねタイプの技の威力が1.3倍になり、すなあらしのダメージを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すなはき",
+        "description":  "攻撃技を受けると5ターンすなあらし状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "すりぬけ",
+        "description":  "みがわり、しんぴのまもり、リフレクター、ひかりのかべ、オーロラベールの効果を受けずに攻撃できる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "するどいめ",
+        "description":  "命中率が下がらず、回避率の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スロースタート",
+        "description":  "登場から5ターンのあいだ攻撃と素早さが1/2になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "スワームチェンジ",
+        "description":  "残りHPが1/2以下になるとフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "せいぎのこころ",
+        "description":  "あくタイプの攻撃技を受けると攻撃が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "せいしんりょく",
+        "description":  "相手の技でひるまない。いかくの効果を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "せいでんき",
+        "description":  "接触技を受けると30％の確率で相手をまひにする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぜったいねむり",
+        "description":  "常にねむり状態。ねむり状態でも技が出せる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ゼロフォーミング",
+        "description":  "テラスタルしたとき、天気やフィールドを元に戻す。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "そうしょく",
+        "description":  "くさタイプの技を受けた時、無効化して攻撃が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "そうだいしょう",
+        "description":  "登場したとき、ひんしになった味方ポケモンの数×10％技の威力が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ソウルハート",
+        "description":  "他のポケモンがひんしになると特攻が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ターボブレイズ",
+        "description":  "技を出すとき相手の特性の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "たいねつ",
+        "description":  "ほのおタイプの技のダメージとやけどのダメージを半減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1,
+                              "spa":  null,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "たまひろい",
+        "description":  "不明",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "たんじゅん",
+        "description":  "能力変化が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ダークオーラ",
+        "description":  "全てのポケモンの悪タイプの技の威力が4/3になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ダウンロード",
+        "description":  "登場したとき防御が高い相手だと特攻が、特防が高い相手だと攻撃が上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "だっぴ",
+        "description":  "ターンおわりに30％で状態異常が治る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ダルマモード",
+        "description":  "残りHPが1/2以下になるとフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ちからずく",
+        "description":  "技の追加効果が発動しなくなるが、威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ちからもち",
+        "description":  "物理攻撃の威力が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ちくでん",
+        "description":  "でんきタイプの技を受けると無効化し、最大HPの1/4回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ちどりあし",
+        "description":  "混乱状態だと回避率が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ちょすい",
+        "description":  "みずタイプの技を受けると無効化し、最大HPの1/4回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テイルアーマー",
+        "description":  "自分と味方は先制技を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てきおうりょく",
+        "description":  "タイプ一致の補正が1.5倍から2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テクニシャン",
+        "description":  "威力60以下の技の威力を1.5倍にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てつのこぶし",
+        "description":  "パンチ系の技の威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てつのトゲ",
+        "description":  "接触技を受けると相手の最大HPの1/8を削る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テラスシェル",
+        "description":  "HPが最大の時に受ける攻撃がいまひとつになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  1.5,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テラスチェンジ",
+        "description":  "登場したときフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テラボルテージ",
+        "description":  "技を出すとき相手の特性の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "テレパシー",
+        "description":  "味方の攻撃を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てんきや",
+        "description":  "天候によってタイプが変わる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てんねん",
+        "description":  "相手の素早さ以外の能力変化の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "てんのめぐみ",
+        "description":  "追加効果の発生率が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "デルタストリーム",
+        "description":  "登場している間らんきりゅう状態になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "でんきエンジン",
+        "description":  "でんきタイプの技を受けると無効化し、素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "でんきにかえる",
+        "description":  "攻撃を受けるとじゅうでん状態になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "とうそうしん",
+        "description":  "性別が同じ相手に対して攻撃、特攻が1.25倍になり、性別が違う相手には0.75倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.3,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "とびだすなかみ",
+        "description":  "相手の技を受けてよってひんしになったとき、残りHP分のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "とびだすハバネロ",
+        "description":  "技のダメージを受けると相手をやけど状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "トランジスタ",
+        "description":  "でんきタイプの技の威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.3,
+                              "spa":  null,
+                              "spd":  1.3,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "トレース",
+        "description":  "登場したとき相手と同じ特性になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "とれないにおい",
+        "description":  "接触技を受けると相手の特性をとれないにおいに変える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくくぐつ",
+        "description":  "相手をどく状態にした時、こんらん状態にもする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくげしょう",
+        "description":  "物理技を受けるとどくびし状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくしゅ",
+        "description":  "接触技により30％でどく状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくのくさり",
+        "description":  "相手に攻撃したときもうどく状態にすることがある。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくのトゲ",
+        "description":  "接触技を受けると30％で相手をどく状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どくぼうそう",
+        "description":  "どく、もうどく状態の時に物理技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  1,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どしょく",
+        "description":  "じめんタイプの技を受けると無効化し、最大HPの1/4回復する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ドラゴンスキン",
+        "description":  "ノーマルタイプの技がドラゴンタイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "どんかん",
+        "description":  "メロメロ、ちょうはつ、いかくを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ナイトメア",
+        "description":  "相手がねむり状態の時、最大HPの1/8を削る。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "なまけ",
+        "description":  "1ターンごとになまけて行動できない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "にげあし",
+        "description":  "不明",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "にげごし",
+        "description":  "残りHPが1/2になると手持ちのポケモンと交代する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぬめぬめ",
+        "description":  "接触技を受けると相手の素早さを1段階下げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "ねつこうかん",
+        "description":  "ほのおタイプの攻撃を受けると攻撃が1段階上がる。やけど状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ねつぼうそう",
+        "description":  "やけど状態の時、特殊技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ねんちゃく",
+        "description":  "道具を奪われない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ノーガード",
+        "description":  "互いの攻撃が必中になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ノーてんき",
+        "description":  "全てのポケモンが天気の影響を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ノーマルスキン",
+        "description":  "全ての技がノーマルタイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "のろわれボディ",
+        "description":  "攻撃を受けた時、30％の確率で3ターンその技をかなしばり状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ハードロック",
+        "description":  "こうかばつぐんの技を受けたとき、ダメージを軽減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はがねつかい",
+        "description":  "はがねタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はがねのせいしん",
+        "description":  "自分と味方のはがねタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はじまりのうみ",
+        "description":  "登場している間おおあめ状態になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はっこう",
+        "description":  "命中率が下がらず、回避率の影響を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はとむね",
+        "description":  "相手から防御をさげられない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ハドロンエンジン",
+        "description":  "登場すると5ターンの間エレキフィールド状態にし、エレキフィールド状態だと特攻が4/3になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はやあし",
+        "description":  "状態異常のとき、素早さが1.5倍になる。まひ状態で素早さが下がらない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "はやおき",
+        "description":  "ねむり状態が早く解ける。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はやてのつばさ",
+        "description":  "HPが最大の時、ひこうタイプの技は先制できる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はらぺこスイッチ",
+        "description":  "ターンおわりにフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はりきり",
+        "description":  "物理技を使うとき、攻撃が1.5倍になり命中率が0.8倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はりこみ",
+        "description":  "相手が交代したときに攻撃すると2倍のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "はんすう",
+        "description":  "きのみを食べると次のターンおわりにも食べる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ばけのかわ",
+        "description":  "1度だけ相手の技のダメージを無効化し、最大HPの1/8のダメージを受ける。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "バッテリー",
+        "description":  "味方の特殊技の威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "バトルスイッチ",
+        "description":  "攻撃技を使用するとブレードフォルムに、キングシールドを使用するとシールドフォルムになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "バリアフリー",
+        "description":  "登場したとき、お互いのひかりのかべ、リフレクター、オーロラベールを解除する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ばんけん",
+        "description":  "いかくを無効化し攻撃が1段階上がる。交代させる効果を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "パステルベール",
+        "description":  "自分と味方はどく、もうどく状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "パワースポット",
+        "description":  "味方の技の威力が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "パンクロック",
+        "description":  "音系の技の威力が1.3倍になり、音系の技で受けるダメージが1/2になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.3,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ヒーリングシフト",
+        "description":  "回復技で先制できる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ひでり",
+        "description":  "登場すると5ターンひでり状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ひとでなし",
+        "description":  "どく、もうどく状態の相手に対する攻撃が必ず急所に当たる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ひひいろのこどう",
+        "description":  "登場すると5ターンの間にほんばれ状態にし、にほんばれ状態だと攻撃が4/3になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ひらいしん",
+        "description":  "でんきタイプの攻撃を引き寄せて無効化し、特攻が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ビーストブースト",
+        "description":  "相手の先制技を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ビビッドボディ",
+        "description":  "自分と味方は相手の先制技を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "びびり",
+        "description":  "ゴースト、あく、むしタイプの技やいかくを受けると素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "びんじょう",
+        "description":  "相手の能力が上がると自分の能力も上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ファーコート",
+        "description":  "物理技で受けるダメージが1/2になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  2,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ファントムガード",
+        "description":  "HPが最大の時、受けるダメージが半減する。特性の効果を貫通されない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  2,
+                              "spa":  1,
+                              "spd":  2,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フィルター",
+        "description":  "こうかばつぐんの技を受けたとき、ダメージを軽減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふうりょくでんき",
+        "description":  "風系の技を受けるとじゅうでん状態になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フェアリーオーラ",
+        "description":  "全てのポケモンのフェアリータイプの技の威力が4/3になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フェアリースキン",
+        "description":  "ノーマルタイプの技がフェアリータイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふかしのこぶし",
+        "description":  "接触技が相手の守りを1/4貫通する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふくがん",
+        "description":  "命中率が1.3倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふくつのこころ",
+        "description":  "ひるむと素早さが1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "ふくつのたて",
+        "description":  "1度だけ登場すると防御が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふしぎなうろこ",
+        "description":  "状態異常のとき防御が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.5,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふしぎなまもり",
+        "description":  "こうかばつぐんではない攻撃技を無効化する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふしょく",
+        "description":  "はがね、どくタイプのポケモンもどく、もうどく状態にできる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふとうのけん",
+        "description":  "1度だけ登場すると攻撃が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふみん",
+        "description":  "ねむり、ねむけ状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ふゆう",
+        "description":  "じめんタイプの技を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フラワーギフト",
+        "description":  "にほんばれ状態のとき、味方と自分の攻撃と特攻を1.5倍にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フラワーベール",
+        "description":  "自分と味方のくさタイプのポケモンは能力を下げられず、状態異常にされない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フリーズスキン",
+        "description":  "ノーマルタイプの技がこおりタイプになり、威力が1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "フレンドガード",
+        "description":  "味方の受けるダメージが3/4になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぶきよう",
+        "description":  "道具の効果が発揮されない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ブレインフォース",
+        "description":  "こうかばつぐんの技の威力がさらに1.2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "プラス",
+        "description":  "プラスかマイナスのポケモンがいると特攻が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "プリズムアーマー",
+        "description":  "こうかばつぐんの技を受けたとき、ダメージを軽減する。特性の効果を貫通されない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "プレッシャー",
+        "description":  "技を受けたときにPPを2倍減らす。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ヘドロえき",
+        "description":  "吸収技を受けたときに効果を反転させる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "へんげんじざい",
+        "description":  "登場してから1度だけ、使う技と同じタイプになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "へんしょく",
+        "description":  "受けた技と同じタイプになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ヘヴィメタル",
+        "description":  "重さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ほうし",
+        "description":  "接触技を受けると30％でどく、まひ、ねむり状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ほおぶくろ",
+        "description":  "きのみを食べると追加で最大HPの1/3回復。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ほのおのからだ",
+        "description":  "接触技を受けると30％でやけど状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ほろびのボディ",
+        "description":  "接触技を受けると30％でほろび状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぼうおん",
+        "description":  "音系の技を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぼうじん",
+        "description":  "すなあらし状態のダメージや粉系の技を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ぼうだん",
+        "description":  "弾、爆弾系の技を受けなくなる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ポイズンヒール",
+        "description":  "どく、もうどく状態のときターンおわりのダメージを受けず、HPを1/8回復。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マイティチェンジ",
+        "description":  "手持ちに戻るとフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マイナス",
+        "description":  "プラスかマイナスのポケモンがいると特攻が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マイペース",
+        "description":  "こんらん状態にならず、いかくを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マグマのよろい",
+        "description":  "こおり状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "まけんき",
+        "description":  "相手に能力を下げられると攻撃が2段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マジシャン",
+        "description":  "攻撃したとき道具を奪う。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マジックガード",
+        "description":  "攻撃技以外のダメージを受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マジックミラー",
+        "description":  "変化技を跳ね返す。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マルチスケイル",
+        "description":  "HPが最大の時、受けるダメージが半減する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  2,
+                              "spa":  null,
+                              "spd":  2,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "マルチタイプ",
+        "description":  "プレートに応じてタイプが変わる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ミイラ",
+        "description":  "接触技を受けると相手の特性をミイラにする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ミストメイカー",
+        "description":  "登場すると5ターンの間ミストフィールド状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "みずがため",
+        "description":  "みずタイプの技を受けると防御が2段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  2,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "みずのベール",
+        "description":  "やけど状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "みつあつめ",
+        "description":  "不明",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ミラーアーマー",
+        "description":  "能力を下げる効果を跳ね返す。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ミラクルスキン",
+        "description":  "相手の変化技の命中率を50％以下にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "むしのしらせ",
+        "description":  "HPが1/3の時、むしタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ムラっけ",
+        "description":  "ターンおわりに攻撃、防御、特攻、特防、素早さのうちどれかが2段階上がりどれかが1段階下がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "メガソーラー",
+        "description":  "技を使うときにほんばれ状態の効果を受ける。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "メガランチャー",
+        "description":  "波動系の技の威力を1.5倍にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "メタルプロテクト",
+        "description":  "能力を下げられない。特性を貫通されない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "メロメロボディ",
+        "description":  "性別の異なるポケモンに接触技を受けると30％でメロメロ状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "めんえき",
+        "description":  "どく、もうどく状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "もうか",
+        "description":  "HPが1/3の時、ほのおタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ものひろい",
+        "description":  "ターンおわりに消費した道具を拾ってくる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "もふもふ",
+        "description":  "接触技を受けた時にダメージを半減するがほのおタイプの技を受けた時の威力が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "もらいび",
+        "description":  "ほのおタイプの技を無効化し自分のほのおタイプの技の威力を1.5倍する。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "やるき",
+        "description":  "ねむけ、ねむり状態にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ゆうばく",
+        "description":  "相手の接触技を受けてよってひんしになったとき、残りHPの1/4分のダメージを与える。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ゆきかき",
+        "description":  "ゆき状態で素早さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "ゆきがくれ",
+        "description":  "ゆき状態で相手の命中率が0.8倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ゆきふらし",
+        "description":  "登場したときゆき状態にする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ようりょくそ",
+        "description":  "にほんばれ状態のとき素早さが2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  2
+                          }
+    },
+    {
+        "name":  "ヨガパワー",
+        "description":  "物理攻撃の威力が2倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  2,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "よちむ",
+        "description":  "登場したとき相手の最も威力の高い技が分かる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "よびみず",
+        "description":  "みずタイプの攻撃を引き寄せて無効化し、特攻が1段階上がる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "よわき",
+        "description":  "残りHPが1/2以下になると攻撃、特攻が1/2になってしまう。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "ライトメタル",
+        "description":  "重さが半分になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "リーフガード",
+        "description":  "にほんばれ状態の時、状態異常にならない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "リベロ",
+        "description":  "登場してから1度だけ、使う技と同じタイプになる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "リミットシールド",
+        "description":  "HPが1/2以上だと状態異常にならず、HPが1/2を以下になるとフォルムチェンジする。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "りゅうのあぎと",
+        "description":  "ドラゴンタイプの技の威力が1.5倍になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.5,
+                              "def":  null,
+                              "spa":  1.5,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "りんぷん",
+        "description":  "追加効果を受けない。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "レシーバー",
+        "description":  "味方がひんしになったとき、特性を引き継ぐ。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "わざわいのうつわ",
+        "description":  "他のポケモンの特攻が3/4になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  1.2,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "わざわいのおふだ",
+        "description":  "他のポケモンの攻撃が3/4になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  1.2,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "わざわいのたま",
+        "description":  "他のポケモンの特防が3/4になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  1.2,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "わざわいのつるぎ",
+        "description":  "他のポケモンの防御が3/4になる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  1.2,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    },
+    {
+        "name":  "わたげ",
+        "description":  "攻撃を受けたとき自分以外の素早さを1段階下げる。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  1.5
+                          }
+    },
+    {
+        "name":  "わるいてぐせ",
+        "description":  "攻撃したとき道具を奪う。",
+        "statModifiers":  {
+                              "hp":  null,
+                              "atk":  null,
+                              "def":  null,
+                              "spa":  null,
+                              "spd":  null,
+                              "spe":  null
+                          }
+    }
+]

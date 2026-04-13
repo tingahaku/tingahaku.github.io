@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ページを移動しています | ポケグラフ</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+<script>
+(function () {
+    const repoBasePath = "/PokeGraph/";
+    const currentPath = window.location.pathname || "";
+    const normalizedPath = currentPath.startsWith(repoBasePath)
+        ? currentPath.slice(repoBasePath.length)
+        : currentPath.replace(/^\/+/, "");
+    const trimmed = normalizedPath.replace(/^\/+|\/+$/g, "");
+    const parts = trimmed.split("/").filter(Boolean);
+
+    if (parts[0] === "pokemon" && parts[1]) {
+        const pokemonKey = encodeURIComponent(decodeURIComponent(parts[1]));
+        window.location.replace(repoBasePath + "pokemon/" + pokemonKey + "/");
+        return;
+    }
+
+    window.location.replace(repoBasePath);
+})();
+</script>
+</body>
+</html>

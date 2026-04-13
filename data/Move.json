@@ -1,0 +1,5394 @@
+﻿[
+    {
+        "name":  "3ぼんのや",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アーマーキャノン",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アームハンマー",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アイアンテール",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アイアンヘッド",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アイアンローラー",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  130,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アイススピナー",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アイスハンマー",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアカッター",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアジェット",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアステップ",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアテール",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアブレイク",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクアリング",
+        "type":  "みず",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アクセルロック",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あくのはどう",
+        "type":  "あく",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あくび",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "アクロバット",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  55,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あさのひざし",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アシストパワー",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  20,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アシッドボム",
+        "type":  "どく",
+        "category":  "special",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あなをほる",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あばれる",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あまいかおり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あまえる",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あまごい",
+        "type":  "みず",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "あやしいひかり",
+        "type":  "ゴースト",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アロマミスト",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "アンコール",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "妨害"
+                 ]
+    },
+    {
+        "name":  "いえき",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "イカサマ",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  95,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いかりのこな",
+        "type":  "むし",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "いかりのまえば",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いたみわけ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いちゃもん",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いとをはく",
+        "type":  "むし",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いのちがけ",
+        "type":  "かくとう",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いのちのしずく",
+        "type":  "みず",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "いばる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いびき",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いやしのすず",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いやしのねがい",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いやしのはどう",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "いやなおと",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "いわなだれ",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "インファイト",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ウェーブタックル",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ウェザーボール",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うずしお",
+        "type":  "みず",
+        "category":  "special",
+        "power":  35,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うそなき",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うたう",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  55,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "うたかたのアリア",
+        "type":  "みず",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うちおとす",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ウッドハンマー",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ウッドホーン",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うっぷんばらし",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うらみ",
+        "type":  "ゴースト",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "うらみつらみ",
+        "type":  "ゴースト",
+        "category":  "special",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エアカッター",
+        "type":  "ひこう",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エアスラッシュ",
+        "type":  "ひこう",
+        "category":  "special",
+        "power":  75,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エナジーボール",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エレキネット",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  55,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エレキフィールド",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エレキボール",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "エレクトロビーム",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  130,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "オーバーヒート",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  130,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "オーラぐるま",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  110,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "オーロラベール",
+        "type":  "こおり",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "おいかぜ",
+        "type":  "ひこう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "おかたづけ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おきみやげ",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おさきにどうぞ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おたけび",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おだてる",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おちゃかい",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "おにび",
+        "type":  "ほのお",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "おはかまいり",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かいでんぱ",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "カウンター",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かえんほうしゃ",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かかとおとし",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かげうち",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かげぬい",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かげぶんしん",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かなしばり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "妨害"
+                 ]
+    },
+    {
+        "name":  "かふんだんご",
+        "type":  "むし",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "かみくだく",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かみつく",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かみなり",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  70,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かみなりのキバ",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かみなりパンチ",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "からげんき",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "からをやぶる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "かわらわり",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ガードシェア",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ガードスワップ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "がむしゃら",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "がんせきアックス",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "設置技"
+                 ]
+    },
+    {
+        "name":  "がんせきふうじ",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "がんせきほう",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きあいだま",
+        "type":  "かくとう",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  70,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きあいだめ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きあいパンチ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  150,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きしかいせい",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きまぐレーザー",
+        "type":  "ドラゴン",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きゅうけつ",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "キラースピン",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  30,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "きりばらい",
+        "type":  "ひこう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "キングシールド",
+        "type":  "はがね",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "きんぞくおん",
+        "type":  "はがね",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ギガインパクト",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ギガドレイン",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "クイックターン",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "くさむすび",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "くさわけ",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "くすぐる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "くちばしキャノン",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "クラブハンマー",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "クリアスモッグ",
+        "type":  "どく",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "くろいきり",
+        "type":  "こおり",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "くろいまなざし",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "クロスチョップ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  80,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "クロスポイズン",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "グラススライダー",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  55,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "グラスフィールド",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "けたぐり",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "げきりん",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ゲップ",
+        "type":  "どく",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "げんしのちから",
+        "type":  "いわ",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "コーチング",
+        "type":  "かくとう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こうごうせい",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こうそくいどう",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こうそくスピン",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こおりのいぶき",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こおりのキバ",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こおりのつぶて",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こごえるかぜ",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  55,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "コスモパワー",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "コットンガード",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "このゆびとまれ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "コメットパンチ",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こらえる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "こわいかお",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ゴーストダイブ",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ゴッドバード",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  140,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコカッター",
+        "type":  "エスパー",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコキネシス",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコショック",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコノイズ",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコファング",
+        "type":  "エスパー",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイコフィールド",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サイドチェンジ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "さいはい",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "さいみんじゅつ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  60,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "さきおくり",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "さむいギャグ",
+        "type":  "こおり",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "さわぐ",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "サンダーダイブ",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シェルアームズ",
+        "type":  "どく",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シェルブレード",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しおづけ",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しおふき",
+        "type":  "みず",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シザークロス",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しっとのほのお",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しっぺがえし",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しっぽきり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "しねんのずつき",
+        "type":  "エスパー",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しびれごな",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "しめつける",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  15,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シャカシャカほう",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シャドークロー",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シャドーパンチ",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シャドーボール",
+        "type":  "ゴースト",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しんくうは",
+        "type":  "かくとう",
+        "category":  "special",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しんそく",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "しんぴのまもり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "シンプルビーム",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "Gのちから",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ジェットパンチ",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じこあんじ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じこさいせい",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じごくづき",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じしん",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じたばた",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じだんだ",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じならし",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じばく",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  200,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "じばそうさ",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ジャイロボール",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じゃれつく",
+        "type":  "フェアリー",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じゅうでん",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "10まんばりき",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  95,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "10まんボルト",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じゅうりょく",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じわれ",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  30,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "じんつうりき",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スイープビンタ",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スキルスワップ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スケイルショット",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スケイルノイズ",
+        "type":  "ドラゴン",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "すてゼリフ",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "すてみタックル",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ステルスロック",
+        "type":  "いわ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "設置技"
+                 ]
+    },
+    {
+        "name":  "ストーンエッジ",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  80,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "すなあらし",
+        "type":  "いわ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "すなじごく",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  35,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スピードスワップ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "スマートホーン",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "すりかえ",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "せいちょう",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "せいなるつるぎ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ぜったいれいど",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  30,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ソーラービーム",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ソーラーブレード",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  125,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "そうでん",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ソウルビート",
+        "type":  "ドラゴン",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "そらをとぶ",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "たきのぼり",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "たくわえる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "たたりめ",
+        "type":  "ゴースト",
+        "category":  "special",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "たてこもる",
+        "type":  "はがね",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "タネばくだん",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "タネマシンガン",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だいちのちから",
+        "type":  "じめん",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だいちのはどう",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だいばくはつ",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  250,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ダイビング",
+        "type":  "みず",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だいふんげき",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だいもんじ",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "だくりゅう",
+        "type":  "みず",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ダストシュート",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  80,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ダブルアタック",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  35,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ダブルウイング",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ダメおし",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ちいさくなる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ちからをすいとる",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ちきゅうなげ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "チャージビーム",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ちょうのまい",
+        "type":  "むし",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ちょうはつ",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "妨害"
+                 ]
+    },
+    {
+        "name":  "ついばむ",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ツインビーム",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つきのひかり",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つけあがる",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  20,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つじぎり",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つのドリル",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  30,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つばめがえし",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つぶらなひとみ",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つぼをつく",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つららおとし",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つららばり",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "つるぎのまい",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "てだすけ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "てっていこうせん",
+        "type":  "はがね",
+        "category":  "special",
+        "power":  140,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "てっぺき",
+        "type":  "はがね",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "てんしのキッス",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "であいがしら",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "DDラリアット",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "デカハンマー",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  160,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "デコレーション",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "でんこうせっか",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "でんじは",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "でんじふゆう",
+        "type":  "でんき",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "でんじほう",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  50,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "トーチカ",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "とおせんぼう",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とおぼえ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とぐろをまく",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とける",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とっておき",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  140,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とどめばり",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とびかかる",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とびつく",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とびはねる",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とびひざげり",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  130,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ともえなげ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "トライアタック",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "トラバサミ",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  35,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "トリック",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "トリックフラワー",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "トリックルーム",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "トリプルアクセル",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  20,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "トロピカルキック",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "とんぼがえり",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "どくづき",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "どくどく",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "どくどくのキバ",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "どくのいと",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "どくのこな",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "どくびし",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "設置技",
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "ドゲザン",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドラゴンアロー",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドラゴンエール",
+        "type":  "ドラゴン",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドラゴンクロー",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドラゴンダイブ",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドラゴンテール",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ドリルくちばし",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドリルライナー",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドレインキッス",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドレインパンチ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "どろかけ",
+        "type":  "じめん",
+        "category":  "special",
+        "power":  20,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "どろぼう",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ドわすれ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ナイトバースト",
+        "type":  "あく",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ナイトヘッド",
+        "type":  "ゴースト",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なかまづくり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なげつける",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なまける",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なみだめ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なみのり",
+        "type":  "みず",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なやみのタネ",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "なりきり",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ニードルガード",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ニトロチャージ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "にほんばれ",
+        "type":  "ほのお",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねがいごと",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねこだまし",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "妨害"
+                 ]
+    },
+    {
+        "name":  "ねごと",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ネズミざん",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  20,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねっさのだいち",
+        "type":  "じめん",
+        "category":  "special",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねっとう",
+        "type":  "みず",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねっぷう",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  95,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねばねばネット",
+        "type":  "むし",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "設置技"
+                 ]
+    },
+    {
+        "name":  "ねむりごな",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "ねむる",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ねをはる",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "のしかかり",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "のみこむ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "のろい",
+        "type":  "ゴースト",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ハードプラント",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハードプレス",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハイドロカノン",
+        "type":  "みず",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハイドロポンプ",
+        "type":  "みず",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  80,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハイパーボイス",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はいよるいちげき",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はかいこうせん",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はがねのつばさ",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はきだす",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハサミギロチン",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  30,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はたきおとす",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はたく",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はどうだん",
+        "type":  "かくとう",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はなびらのまい",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はなふぶき",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はねやすめ",
+        "type":  "ひこう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハバネロエキス",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はめつのひかり",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  140,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はやてがえし",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "はらだいこ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ハロウィン",
+        "type":  "ゴースト",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "バークアウト",
+        "type":  "あく",
+        "category":  "special",
+        "power":  55,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ばかぢから",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ばくおんぱ",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  140,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ばくれつパンチ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  50,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "バトンタッチ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作",
+                     "バトン"
+                 ]
+    },
+    {
+        "name":  "バリアーラッシュ",
+        "type":  "エスパー",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "バレットパンチ",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パラボラチャージ",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パワーウィップ",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パワーシェア",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パワージェム",
+        "type":  "いわ",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パワースワップ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "パワートリック",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ヒートスタンプ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ひかりのかべ",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "ひけん・ちえなみ",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+                     "設置技"
+                 ]
+    },
+    {
+        "name":  "ひゃっきやこう",
+        "type":  "ゴースト",
+        "category":  "special",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ひやみず",
+        "type":  "みず",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ひょうざんおろし",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ビルドアップ",
+        "type":  "かくとう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ファストガード",
+        "type":  "かくとう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふいうち",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふういん",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フェアリーロック",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フェイタルクロー",
+        "type":  "どく",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フェイント",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  30,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フェザーダンス",
+        "type":  "ひこう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふきとばし",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ふくろだたき",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふしょくガス",
+        "type":  "どく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふぶき",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  70,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フライングプレス",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  100,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フラフラダンス",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フリーズドライ",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フレアソング",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "フレアドライブ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふんえん",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ふんか",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ぶきみなじゅもん",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ぶちかまし",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ブラストバーン",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  150,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ブレイククロー",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ブレイズキック",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  85,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ブレイブバード",
+        "type":  "ひこう",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ぶんまわす",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ヘドロウェーブ",
+        "type":  "どく",
+        "category":  "special",
+        "power":  95,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ヘドロばくだん",
+        "type":  "どく",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ヘビーボンバー",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "へびにらみ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "へんしん",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ベノムショック",
+        "type":  "どく",
+        "category":  "special",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほうでん",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほうふく",
+        "type":  "あく",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほえる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ほおばる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほしがる",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほっぺすりすり",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  20,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "ほのおのうず",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  35,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほのおのキバ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほのおのパンチ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほのおのまい",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほのおのムチ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ほろびのうた",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ボーンラッシュ",
+        "type":  "じめん",
+        "category":  "physical",
+        "power":  30,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ぼうふう",
+        "type":  "ひこう",
+        "category":  "special",
+        "power":  110,
+        "accuracy":  70,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ボディプレス",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ボルテッカー",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ボルトチェンジ",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ポルターガイスト",
+        "type":  "ゴースト",
+        "category":  "physical",
+        "power":  110,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まきつく",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  15,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まきびし",
+        "type":  "じめん",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "設置技"
+                 ]
+    },
+    {
+        "name":  "マジカルシャイン",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "マジカルフレイム",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "マジックルーム",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "マッドショット",
+        "type":  "じめん",
+        "category":  "special",
+        "power":  55,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "マッハパンチ",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  40,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まとわりつく",
+        "type":  "むし",
+        "category":  "special",
+        "power":  20,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まねっこ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まほうのこな",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "まもる",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みがわり",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みきり",
+        "type":  "かくとう",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ミサイルばり",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  95,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ミストバースト",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  100,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+                     "対面操作"
+                 ]
+    },
+    {
+        "name":  "ミストフィールド",
+        "type":  "フェアリー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みずあめボム",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みずしゅりけん",
+        "type":  "みず",
+        "category":  "special",
+        "power":  15,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みずのはどう",
+        "type":  "みず",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みずびたし",
+        "type":  "みず",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みちづれ",
+        "type":  "ゴースト",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ミラーコート",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ミラータイプ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みらいよち",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "みわくのボイス",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ムーンフォース",
+        "type":  "フェアリー",
+        "category":  "special",
+        "power":  95,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "むしくい",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "むしのさざめき",
+        "type":  "むし",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "むしのていこう",
+        "type":  "むし",
+        "category":  "special",
+        "power":  50,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "むねんのつるぎ",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "めいそう",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "メガトンキック",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  75,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "メガホーン",
+        "type":  "むし",
+        "category":  "physical",
+        "power":  120,
+        "accuracy":  85,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "メタルバースト",
+        "type":  "はがね",
+        "category":  "physical",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "メテオビーム",
+        "type":  "いわ",
+        "category":  "special",
+        "power":  120,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "メロメロ",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "もえつきる",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  130,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "もりののろい",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "もろはのずつき",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  150,
+        "accuracy":  80,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "やけっぱち",
+        "type":  "ほのお",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "やどりぎのタネ",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "やまあらし",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ゆきげしき",
+        "type":  "こおり",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ゆきなだれ",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ライジングボルト",
+        "type":  "でんき",
+        "category":  "special",
+        "power":  70,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ラスターカノン",
+        "type":  "はがね",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "リーフストーム",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  130,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "リーフブレード",
+        "type":  "くさ",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "リサイクル",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "リフレクター",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+                     "サポート"
+                 ]
+    },
+    {
+        "name":  "りゅうせいぐん",
+        "type":  "ドラゴン",
+        "category":  "special",
+        "power":  130,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "りゅうのはどう",
+        "type":  "ドラゴン",
+        "category":  "special",
+        "power":  85,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "りゅうのまい",
+        "type":  "ドラゴン",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "りんごさん",
+        "type":  "くさ",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "りんしょう",
+        "type":  "ノーマル",
+        "category":  "special",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ルミナコリジョン",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "レイジングブル",
+        "type":  "ノーマル",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "れいとうパンチ",
+        "type":  "こおり",
+        "category":  "physical",
+        "power":  75,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "れいとうビーム",
+        "type":  "こおり",
+        "category":  "special",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "れんごく",
+        "type":  "ほのお",
+        "category":  "special",
+        "power":  100,
+        "accuracy":  50,
+        "description":  "",
+        "tags":  [
+                     "状態異常"
+                 ]
+    },
+    {
+        "name":  "ローキック",
+        "type":  "かくとう",
+        "category":  "physical",
+        "power":  65,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ロックオン",
+        "type":  "ノーマル",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ロックカット",
+        "type":  "いわ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ロックブラスト",
+        "type":  "いわ",
+        "category":  "physical",
+        "power":  25,
+        "accuracy":  90,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ワイドガード",
+        "type":  "いわ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ワイドフォース",
+        "type":  "エスパー",
+        "category":  "special",
+        "power":  80,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ワイドブレイカー",
+        "type":  "ドラゴン",
+        "category":  "physical",
+        "power":  60,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ワイルドボルト",
+        "type":  "でんき",
+        "category":  "physical",
+        "power":  90,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "わたほうし",
+        "type":  "くさ",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  100,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "わるだくみ",
+        "type":  "あく",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "name":  "ワンダールーム",
+        "type":  "エスパー",
+        "category":  "status",
+        "power":  null,
+        "accuracy":  null,
+        "description":  "",
+        "tags":  [
+
+                 ]
+    }
+]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=900">
+    <title>{{TITLE}}</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta property="og:title" content="{{TITLE}}">
+    <meta property="og:description" content="{{DESCRIPTION}}">
+    <meta property="og:type" content="website">
+{{OG_URL_TAG}}
+{{CANONICAL_TAG}}
+{{OG_IMAGE_TAG}}
+    <script>
+        window.__POKEGRAPH_BASE_PATH__ = "{{BASE_PATH}}";
+{{ROUTE_KEY_SCRIPT}}
+    </script>
+    <link rel="stylesheet" href="{{BASE_PATH}}style.css">
+</head>
+<body>
+    <div id="app">{{APP_HTML}}</div>
+    <script type="module" src="{{BASE_PATH}}js/Main.js"></script>
+</body>
+</html>

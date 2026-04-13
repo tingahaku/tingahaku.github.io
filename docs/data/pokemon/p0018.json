@@ -1,0 +1,70 @@
+﻿{
+    "key":  "p0018",
+    "imageKey":  "0018",
+    "no":  18,
+    "name":  "ピジョット",
+    "abilities":  [
+                      "するどいめ",
+                      "ちどりあし",
+                      "はとむね"
+                  ],
+    "baseStats":  {
+                      "hp":  83,
+                      "atk":  80,
+                      "def":  75,
+                      "spa":  70,
+                      "spd":  70,
+                      "spe":  101
+                  },
+    "evioliteEligible":  false,
+    "point":  "",
+    "synergy":  {
+                    "name":  "",
+                    "modifiers":  {
+                                      "physicalAttacker":  null,
+                                      "specialAttacker":  null,
+                                      "physicalSweeper":  null,
+                                      "specialSweeper":  null,
+                                      "physicalWall":  null,
+                                      "specialWall":  null,
+                                      "setup":  null
+                                  }
+                },
+    "types":  [
+                  "ノーマル",
+                  "ひこう"
+              ],
+    "moves":  [
+                  "ギガインパクト",
+                  "からげんき",
+                  "でんこうせっか",
+                  "はかいこうせん",
+                  "さわぐ",
+                  "りんしょう",
+                  "いびき",
+                  "ねごと",
+                  "メロメロ",
+                  "こらえる",
+                  "まもる",
+                  "みがわり",
+                  "ふきとばし",
+                  "ねっぷう",
+                  "にほんばれ",
+                  "あまごい",
+                  "とんぼがえり",
+                  "ゴッドバード",
+                  "ブレイブバード",
+                  "そらをとぶ",
+                  "つばめがえし",
+                  "ダブルウイング",
+                  "ぼうふう",
+                  "エアスラッシュ",
+                  "おいかぜ",
+                  "はねやすめ",
+                  "フェザーダンス",
+                  "ねむる",
+                  "こうそくいどう",
+                  "どろぼう",
+                  "はがねのつばさ"
+              ]
+}

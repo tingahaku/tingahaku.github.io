@@ -1,0 +1,95 @@
+ポケグラフ データ入力ルール
+
+目的
+- ポケモン、特性、技の追加入力時に迷わないための作業ルールをまとめる。
+- 仕様書よりも実務寄りに、何をどこへ書くかを固定する。
+
+ポケモンデータ
+- 元データは `data/Pokemon.json` に持つ。
+- 各ポケモンは内部一意キー `key` を必須とする。
+- `No` は表示専用。内部参照には使わない。
+- 画像参照には `imageKey` を使う。
+- `key` は今後も変えない前提で付ける。
+- フォルム違いは別 `key` を与える。
+- 例:
+- `garchomp`
+- `gabite`
+- `exeggutor-alola`
+
+ポケモン1件に入れる主な項目
+- `key`
+- `imageKey`
+- `no`
+- `name`
+- `types`
+- `baseStats`
+- `abilities`
+- `moves`
+- `point`
+- `evioliteEligible`
+- `synergy`
+
+命名ルール
+- `key` は英小文字とハイフンを基本とする。
+- `name` は画面表示に使う正式表示名を入れる。
+- フォルム違いは `name` に表示名をそのまま入れる。
+- 例: `ナッシー（アローラの姿）`
+
+特性データ
+- `data/Ability.json` に持つ。
+- 必須項目:
+- `name`
+- `description`
+- `statModifiers`
+- `suitabilityModifiers`
+- 補正が無い項目は `null` にする。
+- 未指定を `0` にしない。
+
+技データ
+- `data/Move.json` に持つ。
+- 必須項目:
+- `name`
+- `type`
+- `category`
+- `power`
+- `accuracy`
+- `description`
+- `tags`
+- 補助技などで威力や命中が無い場合は `null` を使う。
+
+技タグ
+- `tags` は配列で持つ。
+- タグは複数付与可能。
+- 現在の起点作成系タグは以下の6つ。
+- `設置技`
+- `状態異常`
+- `バトン`
+- `対面操作`
+- `妨害`
+- `サポート`
+- 画面に出す文言と完全一致で書く。
+
+シナジー補正
+- `Pokemon.json` の `synergy` に持つ。
+- `name` と `modifiers` を持つ。
+- `modifiers` は適正キーごとに数値を持てる。
+- 無い項目は書かないか `1` 相当として扱う。
+
+ひとくちメモ
+- `point` に短めの文章で入れる。
+- 強み、役割、注意点を1〜3文程度でまとめる。
+- 画面でそのまま出るので、改行位置と長さを意識する。
+
+作業順
+1. `data/Pokemon.json` を更新する
+2. `data/Ability.json` / `data/Move.json` を必要に応じて更新する
+3. `Build-PokemonData.ps1` を実行する
+4. `Build-StaticPages.ps1` を実行する
+5. `docs/` を確認する
+
+確認ポイント
+- `key` の重複がないか
+- `imageKey` に対応する画像があるか
+- 特性名、技名の参照先が存在するか
+- タグ名の表記ゆれがないか
+- 表示名が長すぎて崩れないか

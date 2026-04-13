@@ -1,0 +1,19 @@
+CSVからJSONへ取り込む手順
+
+1. 以下3ファイルを更新
+- data/csv/Pokemon.csv
+- data/csv/Ability.csv
+- data/csv/Move.csv
+
+2. 取込スクリプトを実行
+- powershell -ExecutionPolicy Bypass -File scripts/Import-CsvData.ps1
+
+3. 必要なら分割JSONと静的ページを再生成
+- powershell -ExecutionPolicy Bypass -File scripts/Build-PokemonData.ps1
+- powershell -ExecutionPolicy Bypass -File scripts/Build-StaticPages.ps1 -SiteUrl "https://tingahaku.github.io/PokeGraph/"
+
+補足
+- 画像はCSVに埋め込まず、imageKey（またはファイル名）だけを持たせる
+- 配列項目は "|" 区切り
+  - types, abilities, moves, tags
+- 空欄は null/未設定扱い（数値列や補正列）
