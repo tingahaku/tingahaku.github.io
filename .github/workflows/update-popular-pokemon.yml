@@ -20,6 +20,8 @@ jobs:
         uses: google-github-actions/auth@v2
         with:
           credentials_json: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
+          token_format: access_token
+          service_account: pokegraph-ga4@pokegraph.iam.gserviceaccount.com
 
       - name: Update popular-pokemon.json from GA4
         shell: pwsh
