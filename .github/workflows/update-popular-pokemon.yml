@@ -23,6 +23,7 @@ jobs:
           credentials_json: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
           token_format: access_token
           service_account: pokegraph-ga4@pokegraph.iam.gserviceaccount.com
+          access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
 
       - name: Update popular-pokemon.json from GA4
         shell: pwsh
