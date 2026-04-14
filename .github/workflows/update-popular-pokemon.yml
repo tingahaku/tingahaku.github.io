@@ -1,0 +1,45 @@
+name: Update Popular Pokemon
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-popular-pokemon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
+
+      - name: Update popular-pokemon.json from GA4
+        shell: pwsh
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+        run: |
+          ./scripts/Update-PopularPokemonFromGa4.ps1 -SyncDocsAndDist -SiteBasePath "/PokeGraph" -TopN 100 -Days 7
+
+      - name: Commit and push if changed
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/popular-pokemon.json docs/data/popular-pokemon.json dist/data/popular-pokemon.json
+          git commit -m "chore: update popular pokemon ranking from GA4"
+          git push

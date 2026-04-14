@@ -7,6 +7,8 @@ import { buildDefaultPageMeta, buildPokemonPageMeta } from "./PageMeta.js";
 
 const root = document.querySelector("#app");
 const DEFAULT_POKEMON_KEY = "garchomp";
+const FEATURED_POKEMON_LIMIT = 100;
+const POPULAR_POKEMON_DATA_PATH = "data/popular-pokemon.json";
 let dataStore = null;
 let renderRequestId = 0;
 let htmlToImageModulePromise = null;
@@ -69,15 +71,10 @@ const appState = {
     featuredPokemon: []
 };
 
-function buildMockFeaturedPokemonList(pokemonList) {
+function buildDefaultFeaturedPokemonList(pokemonList, limit = FEATURED_POKEMON_LIMIT) {
     const sortedPokemon = [...pokemonList].sort((leftPokemon, rightPokemon) => leftPokemon.name.localeCompare(rightPokemon.name, "ja"));
 
-    if (sortedPokemon.length === 0) {
-        return [];
-    }
-
-    return Array.from({ length: 100 }, (_, index) => {
-        const pokemon = sortedPokemon[index % sortedPokemon.length];
+    return sortedPokemon.slice(0, limit).map((pokemon) => {
         return {
             key: pokemon.key,
             imageKey: pokemon.imageKey,
@@ -85,6 +82,82 @@ function buildMockFeaturedPokemonList(pokemonList) {
             name: pokemon.name
         };
     });
+}
+
+function normalizePopularPokemonKeys(popularData) {
+    if (Array.isArray(popularData)) {
+        return popularData;
+    }
+
+    if (Array.isArray(popularData?.pokemonKeys)) {
+        return popularData.pokemonKeys;
+    }
+
+    return [];
+}
+
+async function loadPopularPokemonKeys() {
+    try {
+        const response = await fetch(resolveAppUrl(POPULAR_POKEMON_DATA_PATH), { cache: "no-cache" });
+
+        if (!response.ok) {
+            return [];
+        }
+
+        const popularData = await response.json();
+        return normalizePopularPokemonKeys(popularData)
+            .map((key) => String(key ?? "").trim())
+            .filter((key) => key.length > 0);
+    } catch (error) {
+        console.warn("Failed to load popular pokemon ranking.", error);
+        return [];
+    }
+}
+
+function buildFeaturedPokemonList(pokemonList, popularPokemonKeys, limit = FEATURED_POKEMON_LIMIT) {
+    const pokemonByKey = new Map(pokemonList.map((pokemon) => [pokemon.key, pokemon]));
+    const featured = [];
+    const usedKeys = new Set();
+
+    for (const pokemonKey of popularPokemonKeys) {
+        if (featured.length >= limit) {
+            break;
+        }
+
+        const pokemon = pokemonByKey.get(pokemonKey);
+
+        if (!pokemon || usedKeys.has(pokemon.key)) {
+            continue;
+        }
+
+        usedKeys.add(pokemon.key);
+        featured.push({
+            key: pokemon.key,
+            imageKey: pokemon.imageKey,
+            no: pokemon.no,
+            name: pokemon.name
+        });
+    }
+
+    if (featured.length >= limit) {
+        return featured;
+    }
+
+    const fallbackPokemon = buildDefaultFeaturedPokemonList(pokemonList, limit);
+
+    for (const pokemon of fallbackPokemon) {
+        if (featured.length >= limit) {
+            break;
+        }
+
+        if (usedKeys.has(pokemon.key)) {
+            continue;
+        }
+
+        featured.push(pokemon);
+    }
+
+    return featured;
 }
 
 function escapeHtml(value) {
@@ -543,7 +616,8 @@ async function initialize() {
         dataStore = await loadAllData();
         appState.searchInput = "";
         appState.shouldInitializeMoveTypes = true;
-        appState.featuredPokemon = buildMockFeaturedPokemonList(dataStore.pokemonList);
+        const popularPokemonKeys = await loadPopularPokemonKeys();
+        appState.featuredPokemon = buildFeaturedPokemonList(dataStore.pokemonList, popularPokemonKeys);
         const routePokemonKey = getInitialPokemonKeyFromLocation();
         const initialPokemonKey = routePokemonKey && dataStore.pokemonIndexKeyMap.has(routePokemonKey)
             ? routePokemonKey
