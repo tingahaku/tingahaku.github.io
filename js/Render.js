@@ -472,6 +472,7 @@ function renderLandingContent(appState) {
     return `
         ${renderHero(appState, appState.searchStatus, appState.searchStatusType === "error")}
         <div class="content-area">
+            ${renderFeaturedSidebar(appState)}
             <div class="content-grid">
                 <section class="panel landing-panel">
                     <div class="panel__header">
@@ -479,19 +480,37 @@ function renderLandingContent(appState) {
                     </div>
                     <p class="point-text">ポケモンを検索することで特性発動時の能力や色んな適正、技範囲などをグラフでわかりやすく把握できるサイトです。</p>
                 </section>
-                <section class="panel landing-panel">
+                <section class="panel landing-panel landing-panel--guide">
                     <div class="panel__header">
-                        <h3 class="panel__title">注目のポケモン</h3>
+                        <h3 class="panel__title">各パネルでわかること</h3>
                     </div>
-                    <div class="landing-featured-list">
-                        ${(appState.featuredPokemon ?? []).map((pokemon, index) => `
-                            <button class="featured-sidebar__item landing-featured-item" type="button" data-featured-key="${escapeHtml(pokemon.key)}">
-                                <span class="featured-sidebar__rank">${index + 1}</span>
-                                <img class="featured-sidebar__icon" src="${getPokemonImagePath(pokemon.imageKey)}" alt="${escapeHtml(pokemon.name)}">
-                                <span class="featured-sidebar__name" style="font-size:${getAdaptiveFontSize(pokemon.name, 0.9, 0.6, 10, 0.03)}">${escapeHtml(pokemon.name)}</span>
-                            </button>
-                        `).join("")}
-                    </div>
+                    <dl class="landing-guide-list">
+                        <div class="landing-guide-item">
+                            <dt class="landing-guide-item__title">基本情報</dt>
+                            <img class="landing-guide-item__image" src="${resolveAppUrl("assets/ui/gyarados-basic-info.png")}" alt="ギャラドスの基本情報パネル">
+                            <dd class="landing-guide-item__desc">ポケモンのタイプや特性の詳細、弱点タイプなどを表示します。メガシンカやフォルムチェンジが存在するポケモンの場合は、ここからフォルム違いの記事に飛ぶこともできます。</dd>
+                        </div>
+                        <div class="landing-guide-item">
+                            <dt class="landing-guide-item__title">能力</dt>
+                            <img class="landing-guide-item__image" src="${resolveAppUrl("assets/ui/gyarados-performance.png")}" alt="ギャラドスの能力パネル">
+                            <dd class="landing-guide-item__desc">種族値と特性発動時の差分をレーダーチャートで比較し、火力や耐久の傾向を確認できます。オレンジ色で表示されているグラフと数値が特性発動時の数値です。<br>どの特性を発動させるか選択できるほか、HPと防御or特防を統合することで物理耐久、特殊耐久をそれぞれ把握しやすく表示できます。<br><span class="landing-guide-item__note">※段階的に発動する特性（そうしょく など）は一回発動した時点での倍率を表示しています</span><br><span class="landing-guide-item__note">※特性の発動によって下がる能力（くだけるよろい発動時の防御など）は考慮されておりません。</span><br><span class="landing-guide-item__note">※倍率は各ステータス極振り・性格補正無しの場合を想定して計算しています。</span></dd>
+                        </div>
+                        <div class="landing-guide-item">
+                            <dt class="landing-guide-item__title">適正</dt>
+                            <img class="landing-guide-item__image" src="${resolveAppUrl("assets/ui/gyarados-suitability.png")}" alt="ギャラドスの適正パネル">
+                            <dd class="landing-guide-item__desc">能力を元にポケモンの適正を計算して表示します。能力パネルで特性を選択している場合、その能力を参照した値を表示します。元の能力での適正を詳しく知りたい場合は能力パネルで『未選択』を選択してください。<br>また、パネル下部では起点作成に使われることの多い技の中でどのような技を覚えるか表示しています。<br><span class="landing-guide-item__note">※数値はあくまで目安です。実際の適正は各ポケモンのタイプや技、環境によって変動します。</span></dd>
+                        </div>
+                        <div class="landing-guide-item landing-guide-item--range">
+                            <dt class="landing-guide-item__title">技範囲</dt>
+                            <img class="landing-guide-item__image" src="${resolveAppUrl("assets/ui/gyarados-range.png")}" alt="ギャラドスの技範囲パネル">
+                            <dd class="landing-guide-item__desc">選んだタイプの攻撃技でどのくらいの相手に対応できるかをヒートマップで表示します。覚える技のうち選択したタイプの攻撃技も合わせて表示します。重複した複合タイプ（くさ-あく あく-くさ など）の表示/非表示、タイプ一致ではないサブウェポン有効範囲の強調表示/非表示も設定できます。<br><span class="landing-guide-item__note">※特殊なタイプ相性の特性や技には対応していません</span></dd>
+                        </div>
+                        <div class="landing-guide-item landing-guide-item--moves">
+                            <dt class="landing-guide-item__title">覚える技</dt>
+                            <img class="landing-guide-item__image" src="${resolveAppUrl("assets/ui/gyarados-moves.png")}" alt="ギャラドスの覚える技パネル">
+                            <dd class="landing-guide-item__desc">物理・特殊・変化ごとに、威力や命中とあわせて素早くチェックできます。並びは威力の降順です（タイプ一致補正込み）。</dd>
+                        </div>
+                    </dl>
                 </section>
             </div>
         </div>
