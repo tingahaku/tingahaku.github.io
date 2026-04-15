@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-popular-pokemon:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,6 +22,7 @@ jobs:
         with:
           credentials_json: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
           token_format: access_token
+          service_account: pokegraph-ga4@pokegraph.iam.gserviceaccount.com
           access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
 
       - name: Update popular-pokemon.json from GA4
@@ -29,7 +31,7 @@ jobs:
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
           GA4_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
         run: |
-          ./scripts/Update-PopularPokemonFromGa4.ps1 -SyncDocsAndDist -SiteBasePath "/PokeGraph" -TopN 100 -Days 7
+          ./scripts/Update-PopularPokemonFromGa4.ps1 -SyncDocsAndDist -SiteBasePath "/" -TopN 100 -Days 7
 
       - name: Commit and push if changed
         shell: bash
