@@ -81,6 +81,18 @@ function ConvertTo-NativeValue {
 $typeChart = ConvertTo-NativeValue (ConvertFrom-Json $typeChartJson)
 $allTypes = @(ConvertTo-NativeValue (ConvertFrom-Json $allTypesJson))
 
+function Set-ContentUtf8NoBom {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$LiteralPath,
+        [Parameter(Mandatory = $true)]
+        [string]$Value
+    )
+
+    $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+    [System.IO.File]::WriteAllText($LiteralPath, $Value, $utf8NoBom)
+}
+
 function Escape-HtmlAttribute {
     param([string]$Value)
 
@@ -1276,7 +1288,7 @@ if ($SiteUrl -and $siteMapEntries.Count -gt 0) {
         '</urlset>'
     ) -join "`n"
 
-    Set-Content -LiteralPath (Join-Path $outputPath "sitemap.xml") -Value $sitemapContent -Encoding utf8
+    Set-ContentUtf8NoBom -LiteralPath (Join-Path $outputPath "sitemap.xml") -Value $sitemapContent
 
     $robotsContent = @(
         'User-agent: *'
@@ -1285,7 +1297,7 @@ if ($SiteUrl -and $siteMapEntries.Count -gt 0) {
         "Sitemap: $(Join-SiteUrl $SiteUrl 'sitemap.xml')"
     ) -join "`n"
 
-    Set-Content -LiteralPath (Join-Path $outputPath "robots.txt") -Value $robotsContent -Encoding utf8
+    Set-ContentUtf8NoBom -LiteralPath (Join-Path $outputPath "robots.txt") -Value $robotsContent
 }
 
 Write-Output "Built static pages to $outputPath"
