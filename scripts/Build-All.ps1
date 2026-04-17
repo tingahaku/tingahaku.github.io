@@ -1,6 +1,6 @@
 param(
     [switch]$FromCsv,
-    [string]$SiteUrl = "https://tingahaku.github.io/PokeGraph/",
+    [string]$SiteUrl = "https://tingahaku.github.io/",
     [string]$OutputDirectory = "docs"
 )
 

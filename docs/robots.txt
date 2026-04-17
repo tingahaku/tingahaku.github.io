@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://tingahaku.github.io/PokeGraph/sitemap.xml
+Sitemap: https://tingahaku.github.io/sitemap.xml

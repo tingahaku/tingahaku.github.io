@@ -1195,10 +1195,38 @@ $notFoundHtml = $notFoundHtmlTemplate.Replace("__POKEGRAPH_BASE_PATH__", $notFou
 
 Set-Content -LiteralPath (Join-Path $outputPath "404.html") -Value $notFoundHtml -Encoding utf8
 
-$siteMapUrls = New-Object System.Collections.Generic.List[string]
+$siteMapEntries = New-Object System.Collections.Generic.List[object]
+$seenSiteMapUrls = @{}
+
+function Add-SiteMapEntry {
+    param(
+        [System.Collections.Generic.List[object]]$Entries,
+        [hashtable]$SeenUrls,
+        [string]$Url,
+        [string]$LastMod
+    )
+
+    if (-not $Url) {
+        return
+    }
+
+    if ($SeenUrls.ContainsKey($Url)) {
+        return
+    }
+
+    $safeLastMod = if ($LastMod) { $LastMod } else { (Get-Date).ToString("yyyy-MM-dd") }
+
+    $Entries.Add([PSCustomObject]@{
+        loc = $Url
+        lastmod = $safeLastMod
+    })
+    $SeenUrls[$Url] = $true
+}
 
 if ($SiteUrl) {
-    $siteMapUrls.Add((Join-SiteUrl $SiteUrl ""))
+    Add-SiteMapEntry -Entries $siteMapEntries -SeenUrls $seenSiteMapUrls -Url (Join-SiteUrl $SiteUrl "") -LastMod (Get-Date).ToString("yyyy-MM-dd")
+    Add-SiteMapEntry -Entries $siteMapEntries -SeenUrls $seenSiteMapUrls -Url (Join-SiteUrl $SiteUrl "privacy/") -LastMod (Get-Item -LiteralPath (Join-Path $repoRoot "privacy/index.html")).LastWriteTime.ToString("yyyy-MM-dd")
+    Add-SiteMapEntry -Entries $siteMapEntries -SeenUrls $seenSiteMapUrls -Url (Join-SiteUrl $SiteUrl "guidelines/") -LastMod (Get-Item -LiteralPath (Join-Path $repoRoot "guidelines/index.html")).LastWriteTime.ToString("yyyy-MM-dd")
 }
 
 foreach ($pokemon in $pokemonIndex) {
@@ -1234,15 +1262,17 @@ foreach ($pokemon in $pokemonIndex) {
     Set-Content -LiteralPath (Join-Path $pageDirectory "index.html") -Value $pageHtml -Encoding utf8
 
     if ($SiteUrl) {
-        $siteMapUrls.Add((Join-SiteUrl $SiteUrl $relativePagePath))
+        Add-SiteMapEntry -Entries $siteMapEntries -SeenUrls $seenSiteMapUrls -Url (Join-SiteUrl $SiteUrl $relativePagePath) -LastMod (Get-Item -LiteralPath $detailPath).LastWriteTime.ToString("yyyy-MM-dd")
     }
 }
 
-if ($SiteUrl -and $siteMapUrls.Count -gt 0) {
+if ($SiteUrl -and $siteMapEntries.Count -gt 0) {
     $sitemapContent = @(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        ($siteMapUrls | ForEach-Object { "  <url><loc>$($_)</loc></url>" })
+        ($siteMapEntries | ForEach-Object {
+            "  <url>`n    <loc>$($_.loc)</loc>`n    <lastmod>$($_.lastmod)</lastmod>`n  </url>"
+        })
         '</urlset>'
     ) -join "`n"
 
