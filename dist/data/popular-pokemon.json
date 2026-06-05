@@ -9,14 +9,13 @@
     "p0428-2",
     "p0479-6",
     "p0637",
-    "p0706-2",
     "p0902",
     "p0934",
     "p1019"
   ],
-  "generatedAt": "2026-06-04T20:53:46.8194963Z",
-  "source": "ga4-data-api",
+  "generatedAt": "2026-06-05T20:44:25.1780350Z",
   "limit": 100,
   "propertyId": "532714225",
-  "days": 7
+  "days": 7,
+  "source": "ga4-data-api"
 }
