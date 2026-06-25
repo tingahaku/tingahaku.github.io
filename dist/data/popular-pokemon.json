@@ -1,6 +1,8 @@
 {
-  "days": 7,
+  "source": "ga4-data-api",
+  "propertyId": "532714225",
   "pokemonKeys": [
+    "p0902",
     "p0006-3",
     "p0130",
     "p0199-2",
@@ -9,8 +11,7 @@
     "p0745-3",
     "p0925"
   ],
-  "limit": 100,
-  "propertyId": "532714225",
-  "generatedAt": "2026-06-24T20:25:26.3738030Z",
-  "source": "ga4-data-api"
+  "days": 7,
+  "generatedAt": "2026-06-25T20:51:04.1168814Z",
+  "limit": 100
 }
