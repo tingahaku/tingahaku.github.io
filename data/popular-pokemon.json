@@ -1,13 +1,12 @@
 {
+  "generatedAt": "2026-07-02T20:12:47.0223133Z",
   "limit": 100,
-  "generatedAt": "2026-07-01T20:44:22.3933407Z",
+  "days": 7,
+  "source": "ga4-data-api",
   "propertyId": "532714225",
   "pokemonKeys": [
     "p0006-2",
     "p0006-3",
-    "p0448-2",
     "p0866"
-  ],
-  "source": "ga4-data-api",
-  "days": 7
+  ]
 }
