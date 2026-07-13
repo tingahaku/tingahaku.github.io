@@ -1,6 +1,6 @@
 {
+  "limit": 100,
   "source": "ga4-data-api",
-  "generatedAt": "2026-07-12T19:59:16.9375887Z",
   "pokemonKeys": [
     "p0530",
     "p0530-2",
@@ -10,6 +10,6 @@
     "p0902"
   ],
   "propertyId": "532714225",
-  "limit": 100,
+  "generatedAt": "2026-07-13T20:05:44.3897256Z",
   "days": 7
 }
